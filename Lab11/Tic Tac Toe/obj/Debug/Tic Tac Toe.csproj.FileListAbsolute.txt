@@ -1,0 +1,15 @@
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.deps.json
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.runtimeconfig.json
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.dll
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.sourcelink.json
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.dll
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\refint\Tic Tac Toe.dll
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tic Tac Toe\obj\Debug\ref\Tic Tac Toe.dll

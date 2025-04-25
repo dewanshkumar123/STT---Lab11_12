@@ -1,0 +1,15 @@
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\bin\Debug\Tower Of Hanoi.exe
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\bin\Debug\Tower Of Hanoi.deps.json
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\bin\Debug\Tower Of Hanoi.runtimeconfig.json
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\bin\Debug\Tower Of Hanoi.dll
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\bin\Debug\Tower Of Hanoi.pdb
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.AssemblyInfoInputs.cache
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.AssemblyInfo.cs
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.sourcelink.json
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.dll
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\refint\Tower Of Hanoi.dll
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.pdb
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.genruntimeconfig.cache
+C:\Users\Rakesh\Source\Repos\dotnet-console-games\Projects\Tower Of Hanoi\obj\Debug\ref\Tower Of Hanoi.dll
